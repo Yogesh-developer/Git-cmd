@@ -13,3 +13,11 @@
 13- push the changes to the git hub
 14- creating barnch git branch branch-name
 15- to use this branch use git checkout branch-name
+16- to push the branch git push origin branch-name
+17-merger to master git merge branch-name
+
+/**********
+if you want to use already exist thing
+1- git cline "link"
+2- git fetch -- fetch all the changes donre in main
+3- git pull will pull all the changes done in particular branch or master
