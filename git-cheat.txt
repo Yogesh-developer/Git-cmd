@@ -1,0 +1,13 @@
+1-create folder
+2-go to folder
+3-from cmd - git init
+4- git status
+5- git add "../.."
+6- git commit -m "message"
+7- git push
+8- to check git log --> git log
+9- undo the changes we added git reset "git log id"
+10- restore the conten file git restore "./flie name"
+11- git stash -- it is used keep file in background whenever need we can call it using git stash pop and want to clean it git stash clear
+12- clone you git repo to project you greated git remote add origin "repo link"
+13- push the changes to the git hub
